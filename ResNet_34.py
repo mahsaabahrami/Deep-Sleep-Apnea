@@ -11,8 +11,6 @@ def Identitiy_Block(X, filters):
     ----------
     X : Input 
     filters : Number of Filters
-    block : TYPE
-        DESCRIPTION.
 
     Returns
     -------
